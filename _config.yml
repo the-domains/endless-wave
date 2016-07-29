@@ -1,0 +1,14 @@
+layout_spectrum: 0.1271292450837791
+typography_spectrum: 0.23170513566583395
+color:
+  brandStrength: 0.6709437838289887
+  lightness: 0.9127978354226798
+  saturation: 0.8968311254866421
+  rhythmicContrast: 0.9169506726320833
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: endless wave
